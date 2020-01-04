@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "prankster:prankchest"},
+            { "model": "prankster:prankchest"},
+            { "model": "prankster:prankchest"},
+            { "model": "prankster:prankchest"}
+        ]
+    }
+}
