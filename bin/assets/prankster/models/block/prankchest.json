@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "prankster:block/chest_troll_cactus"
+    }
+}
